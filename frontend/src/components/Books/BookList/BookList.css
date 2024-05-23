@@ -1,0 +1,7 @@
+.table-head {
+  @apply py-2 px-4 cursor-pointer;
+}
+
+.table-data {
+  @apply py-2 px-4;
+}
