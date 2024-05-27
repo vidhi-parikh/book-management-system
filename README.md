@@ -96,7 +96,7 @@ Welcome to the Book Management System! This is a full-stack CRUD (Create, Read, 
 
 ### User Authentication
 
-- `POST /api/user/register` - Register a new user
+- `POST /api/user/sign-up` - Register a new user
 - `POST /api/user/login` - User login
 
 ### Book Management
